@@ -1,0 +1,24 @@
+{
+  "name": "dixzAPK - Comic Style",
+  "short_name": "dixzAPK",
+  "description": "Aplikasi Catatan Keuangan dan Jadwal bergaya Komik",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff85a2",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.supaimg.com/31128174-9979-4350-b3f7-961ec0bb9ac1.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.supaimg.com/31128174-9979-4350-b3f7-961ec0bb9ac1.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
